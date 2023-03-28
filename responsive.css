@@ -1,0 +1,240 @@
+@media screen and (max-width:1500px) {
+    h1 {
+        font-size: 55px;
+    }
+
+    .nav_p {
+        font-size: 15px;
+    }
+
+    .h2 {
+        font-size: 37px;
+    }
+
+    .item_p {
+        font-size: 15px;
+    }
+
+    .i1_p_1 {
+        font-size: 60px;
+    }
+}
+
+@media screen and (max-width:1400px) {
+    .li {
+        font-size: 14px;
+    }
+
+    h1 {
+        font-size: 50px;
+    }
+
+    .nav_p {
+        font-size: 13px;
+    }
+
+    .logo_img {
+        height: 65%;
+    }
+
+    .h2 {
+        font-size: 33px;
+    }
+
+    .left_button {
+        padding: 3% 7%;
+    }
+
+
+    .mleft_p {
+
+        font-size: 15px;
+    }
+
+    .i1_p_1 {
+        font-size: 55px;
+    }
+
+
+    .i1_p_2 {
+
+        font-size: 15px;
+    }
+
+
+    .i1_p_3 {
+
+        font-size: 15px;
+    }
+}
+
+
+@media screen and (max-width: 1300px) {
+    .left_button {
+        padding: 3% 6%;
+    }
+
+    .h2 {
+        font-size: 30px;
+    }
+
+    h1 {
+        font-size: 45px;
+    }
+
+    .item_p {
+        font-size: 14px;
+    }
+
+    .mleft_p {
+        font-size: 14px;
+    }
+
+    .mleft_p {
+        font-size: 14px;
+    }
+
+    .i1_p_1 {
+        font-size: 50px;
+    }
+
+    .sec_p {
+        font-size: 14px;
+    }
+
+    .mbcc_right {
+        height: 90%;
+    }
+}
+
+@media screen and (max-width:1200px) {
+    .li {
+        font-size: 13px;
+    }
+
+    h1 {
+        font-size: 40px;
+    }
+
+    .nav_p {
+        font-size: 12px;
+    }
+
+    .left_p {
+        font-size: 15px;
+    }
+
+    .mbcc_right {
+        height: 80%;
+    }
+
+    .mleft_p {
+        font-size: 13px;
+    }
+
+    .h2 {
+        font-size: 29px;
+    }
+
+    .logo_img {
+        height: 55%;
+    }
+
+    .geo_img {
+        height: 50%;
+    }
+
+    .logo {
+        height: 40%;
+    }
+
+    .i1_p_1 {
+        font-size: 45px;
+    }
+
+    .i1_p_2 {
+        font-size: 14px;
+    }
+
+    .i1_p_3 {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width:1200px) {
+    .geo_img {
+        height: 45%;
+    }
+
+    .span1 {
+        font-size: 15px;
+    }
+
+    .li {
+        font-size: 12px;
+    }
+
+    .nav_p {
+        font-size: 11px;
+    }
+    .h2{
+        font-size: 23px;
+    }
+    .left_p{
+        font-size: 14px;
+    }
+    .item_p{
+        font-size: 13px;
+    }
+    .mleft_p{
+        font-size: 12px;
+    }
+    .mbcc_right{
+        height: 75%;
+    }
+    .i1_p_1 {
+        font-size: 40px;
+    }
+
+    .i1_p_2 {
+        font-size: 13px;
+    }
+
+    .i1_p_3 {
+        font-size: 13px;
+    }
+    .rec{
+        height: 80%;
+    }
+    .mt_right{
+        width: 38%;
+    }
+    .mt_left{
+        width: 38%;
+    }
+    .footer_img{
+        width: 20%;
+        height: 50%;
+    }
+    .sec_p{
+        font-size: 13px;
+    }
+    .icon{
+        font-size: 35px;
+    }
+    .circle{
+        width: 45px;
+        height: 45px;
+    }
+    .plane_box{
+        height: 70%;
+    }
+}
+@media screen and (max-width:1000px) {
+    .li {
+        font-size: 13px;
+    }
+    .span1 {
+        font-size: 14px;
+    }
+}
